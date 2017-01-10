@@ -9,4 +9,10 @@ Here I hoped to implement something such that a clock would keep running as it d
 ###pangram.py
 A simple program to ouput 'Pangram' if the input contains all letters of the alphabet at least once; else output 'Not Pangram'.
 
+###rna_transcription.py
+This is a simple program to print out the, sort of, compliment of a DNA strand. A DNA strand contains G, C, T, A. It compliments are: C, G, A, U respectively. Just do that. Simple. The input is a string of characters: 'G', 'C', 'T', 'A'.
+
+###dna_hamming.py
+This is a program to compare 2 DNA strands, input as explained above, and then count the number of characters which are different.
+
 ####If any viewer would like to offer any hints or comments please do drop them here. :)
