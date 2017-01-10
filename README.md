@@ -15,4 +15,7 @@ This is a simple program to print out the, sort of, compliment of a DNA strand. 
 ###dna_hamming.py
 This is a program to compare 2 DNA strands, input as explained above, and then count the number of characters which are different.
 
+###word_count.py
+This is a program to count the number of words in a given string, and print them accordingly. It can be a little tricky if you are not used to using arrays and lists in Python, and can be attempted if one wants to brush up the same.
+
 ####If any viewer would like to offer any hints or comments please do drop them here. :)
