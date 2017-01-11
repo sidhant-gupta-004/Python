@@ -18,4 +18,7 @@ This is a program to compare 2 DNA strands, input as explained above, and then c
 ###word_count.py
 This is a program to count the number of words in a given string, and print them accordingly. It can be a little tricky if you are not used to using arrays and lists in Python, and can be attempted if one wants to brush up the same.
 
+###gigasecond.py
+This program takes from the user their birth date in yy/mm/dd/hours/minutes/seconds, and then tells them how much time is left for them to live upto 10^9 (1 gigasecond) seconds. Else, it tells them that they have. Fun problem as it included the use of functions and stuff: as always, good for the learning curve in Python.
+
 ####If any viewer would like to offer any hints or comments please do drop them here. :)
