@@ -21,4 +21,7 @@ This is a program to count the number of words in a given string, and print them
 ###gigasecond.py
 This program takes from the user their birth date in yy/mm/dd/hours/minutes/seconds, and then tells them how much time is left for them to live upto 10^9 (1 gigasecond) seconds. Else, it tells them that they have. Fun problem as it included the use of functions and stuff: as always, good for the learning curve in Python.
 
+###bob.py
+The simplest possible program to give a certain output if the user input is a question, yell, or statement, etc. Executed by a simple if-else and an infinite loop.
+
 ####If any viewer would like to offer any hints or comments please do drop them here. :)
